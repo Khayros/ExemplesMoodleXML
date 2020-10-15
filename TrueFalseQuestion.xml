@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<question type="truefalse">
+    <name>
+        <text>True False Questions</text>
+    </name>
+     <questiontext format="html">
+        <text>What is the answer to this question?</text>
+     </questiontext>
+</question>
